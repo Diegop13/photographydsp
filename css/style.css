@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+	
+}
+nav{
+	
+	height: 50px;
+	text-align: center;
+}
+
+#acerca{
+	background-image: url(../img/20170731182842_IMG_8745.JPG);
+	background-size: cover;
+    background-position: right ;
+    background-attachment: fixed;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+#acerca h1{
+	text-align: center;
+}
+p{
+	text-align: justify;
+}
+
+#presentacion{
+	background-color: rgba(0,0,0,0.50); 
+	color: #fff;
+	border: rgba(255,255,255,1.00);
+}
+
+#servicios h1,h3{
+	text-align: center;
+	color: #fff;
+	
+}
+
+#servicios{
+	padding: 0px 0px;
+	background-position: center;
+	background-size: cover;
+    background-attachment: fixed;
+	background-image: url(../img/IMG_9518.JPG) ;
+	text-align: center;
+	color: #fff;
+}
+
+#servicios i{
+	font-size: 40px;
+	padding-bottom: 20px;
+}
+#servicios #row1,#row2,#row3,#row4{
+	padding: 10px 0px;
+	background-color: rgba(0,0,0,0.50);
+	align-content: center;
+	align-items: center;
+
+}
+
+#servicios #row1{
+	padding-top: 30px
+}
+
+#servicios #row3{
+	padding-bottom: 50px;
+}
+
+#portafolio{
+	padding: 0px 0px;
+	background-image:url(../img/20170702153600_IMG_1651.JPG);
+	background-position: center;
+	background-size: cover;
+    background-attachment: fixed;
+	
+}
+
+#imagenes{
+	padding: 0px 0px;
+	background-color: rgba(0,0,0,0.50);
+	align-content: center;
+	align-items: center;
+} 
+#portafolio h1{
+	text-align: center;
+	padding: 30px ;
+	color: #fff;
+}
+
+#contacto{
+	padding: 0px 0px;
+	background-image:url(../img/Ritmo2.JPG);
+	background-position: center;
+	background-size: cover;
+    background-attachment: fixed;
+}
+
+#contacto h1{
+	padding: 10px 0;
+	text-align: center;
+	align-content: center;
+	align-items: center;
+	color: #fff;
+}
+#contacto-persona{
+	padding: 30px;
+	background-color: rgba(0,0,0,0.50);
+	align-content: center;
+	align-items: center;
+	color: #fff;
+}
+
+#contacto #submit{
+	text-align: center;
+	align-content: center;
+	align-items: center;
+	color: #fff;
+}
+
+#contact-me{
+	padding: 0;
+	background-color: rgba(0,0,0,0.50);
+	align-content: center;
+	align-items: center;
+	color: #fff;
+}
+
+#footer{
+	text-align: center;	
+	background-color: #000000;
+	color: #fff;
+	padding: 25px 0;
+
+}
+
+#footer p{
+	text-align: center;
